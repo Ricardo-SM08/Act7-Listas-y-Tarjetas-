@@ -1,16 +1,8 @@
-# myapp
+# Tienda MySelftCar
 
-A new Flutter project.
+<img width="612" height="572" alt="image" src="https://github.com/user-attachments/assets/5ed38c1c-d534-49c4-ab2b-738e09e5c126" />
 
-## Getting Started
+movil
 
-This project is a starting point for a Flutter application.
+<img width="313" height="527" alt="image" src="https://github.com/user-attachments/assets/7addab02-bfd1-4104-9028-70224da6e05f" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
